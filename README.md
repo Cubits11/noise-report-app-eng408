@@ -12,8 +12,6 @@ Residents living near airports often lack the tools to visualize and report airc
 Developed as part of **ENGR 408 – Team 6**, Penn State (Summer 2025).
 
 ## 📄 Files
-- `PhaseC_Summary_Report.pdf` – 5-page final submission
-- `Team_Meeting_Agenda_PhaseC.pdf` – Brainstorming & planning
 - Wireframes & mockups in `/assets`
 
 ## 🧪 Next Steps (Lead D)
@@ -27,5 +25,5 @@ See `/research/bibliography.txt` for FAA docs, UX guides, and UI inspiration.
 ---
 
 📬 Contact:  
-Team Lead: Pranav Bhave  
-Email: [your.email@gmail.com] (or PSU email if preferred)
+Team : Adam Marawan, Nick Smith, Shengda Sun, Pranav Bhave 
+Email: ppb5272@psu.edu
